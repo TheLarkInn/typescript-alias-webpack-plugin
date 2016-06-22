@@ -1,0 +1,35 @@
+{
+  "name": "typescript-alias-webpack-plugin",
+  "version": "0.0.0",
+  "description": "This is a typescript webpack plugin that automatically maps `paths` property to webpack's `resolve.alias`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLarkInn/typescript-alias-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "alias",
+    "plugin",
+    "webpack-plugin",
+    "ts-loader",
+    "awesome-typescript-loader",
+    "typescript-loader",
+    "javascript",
+    "angular"
+  ],
+  "author": "Sean Larkin <sean.larkin@cuw.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLarkInn/typescript-alias-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/TheLarkInn/typescript-alias-webpack-plugin#readme",
+  "dependencies": {
+    "enhanced-resolve": "^2.2.2",
+    "tsconfig": "^3.0.0"
+  }
+}
